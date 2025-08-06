@@ -3,19 +3,19 @@ var img$2 = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAF0CAYAAAD/4EcMA
 var img$1 = "data:image/svg+xml,%3c%3fxml version='1.0' encoding='UTF-8' standalone='no'%3f%3e%3c!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'%3e%3csvg width='100%25' height='100%25' viewBox='0 0 53 53' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' xml:space='preserve' xmlns:serif='http://www.serif.com/' style='fill-rule:evenodd%3bclip-rule:evenodd%3bstroke-linejoin:round%3bstroke-miterlimit:2%3b'%3e%3crect id='%e3%82%a2%e3%83%bc%e3%83%88%e3%83%9c%e3%83%bc%e3%83%891' x='0' y='-0' width='52.083' height='52.056' style='fill:none%3b'/%3e%3cclipPath id='_clip1'%3e%3crect x='0' y='-0' width='52.083' height='52.056'/%3e%3c/clipPath%3e%3cg clip-path='url(%23_clip1)'%3e%3cg%3e%3cg%3e%3cpath d='M17.605%2c14.113c1.125%2c0.983 1.582%2c2.148 2.563%2c3.17c2.407%2c2.507 4.811%2c5.102 7.423%2c7.551c4.352%2c4.079 10.045%2c7.577 14.675%2c11.435' style='fill:none%3bstroke:white%3bstroke-width:19.17px%3bstroke-linecap:round%3bstroke-miterlimit:1.5%3b'/%3e%3cpath d='M40.824%2c11.292c-0.914%2c2.03 -3.668%2c3.898 -5.723%2c5.559c-2.684%2c2.171 -5.276%2c4.398 -7.941%2c6.581c-7.278%2c5.958 -12.955%2c12.359 -18.301%2c19.04' style='fill:none%3bstroke:white%3bstroke-width:19.17px%3bstroke-linecap:round%3bstroke-miterlimit:1.5%3b'/%3e%3c/g%3e%3cg%3e%3cpath d='M17.605%2c14.113c1.125%2c0.983 1.582%2c2.148 2.563%2c3.17c2.407%2c2.507 4.811%2c5.102 7.423%2c7.551c4.352%2c4.079 10.045%2c7.577 14.675%2c11.435' style='fill:none%3bstroke:%23f9a83a%3bstroke-width:12.5px%3bstroke-linecap:round%3bstroke-miterlimit:1.5%3b'/%3e%3cpath d='M40.824%2c11.292c-0.914%2c2.03 -3.668%2c3.898 -5.723%2c5.559c-2.684%2c2.171 -5.276%2c4.398 -7.941%2c6.581c-7.278%2c5.958 -12.955%2c12.359 -18.301%2c19.04' style='fill:none%3bstroke:%23f9a83a%3bstroke-width:12.5px%3bstroke-linecap:round%3bstroke-miterlimit:1.5%3b'/%3e%3c/g%3e%3cg%3e%3cpath d='M16.783%2c15.055c0.264%2c0.231 0.482%2c0.475 0.679%2c0.725c0.621%2c0.785 1.078%2c1.612 1.804%2c2.368c1.456%2c1.517 2.91%2c3.065 4.41%2c4.594c0.996%2c1.015 2.012%2c2.021 3.06%2c3.004c1.353%2c1.268 2.831%2c2.481 4.368%2c3.666c3.429%2c2.643 7.152%2c5.143 10.362%2c7.817c0.53%2c0.442 1.319%2c0.37 1.76%2c-0.16c0.442%2c-0.53 0.37%2c-1.319 -0.16%2c-1.76c-3.233%2c-2.694 -6.982%2c-5.215 -10.435%2c-7.877c-1.472%2c-1.135 -2.89%2c-2.296 -4.185%2c-3.51c-1.023%2c-0.959 -2.014%2c-1.941 -2.985%2c-2.931c-1.494%2c-1.522 -2.942%2c-3.064 -4.392%2c-4.574c-0.667%2c-0.695 -1.075%2c-1.465 -1.645%2c-2.187c-0.288%2c-0.365 -0.61%2c-0.72 -0.997%2c-1.058c-0.52%2c-0.454 -1.31%2c-0.4 -1.764%2c0.119c-0.453%2c0.52 -0.4%2c1.31 0.12%2c1.764Z' style='fill:white%3b'/%3e%3cpath d='M39.685%2c10.779c-0.331%2c0.733 -0.963%2c1.428 -1.694%2c2.108c-1.138%2c1.059 -2.52%2c2.058 -3.676%2c2.992l-7.947%2c6.585c-3.596%2c2.944 -6.805%2c5.995 -9.778%2c9.133c-3.104%2c3.276 -5.949%2c6.648 -8.707%2c10.094c-0.431%2c0.539 -0.343%2c1.326 0.195%2c1.757c0.539%2c0.431 1.326%2c0.344 1.757%2c-0.195c2.715%2c-3.392 5.515%2c-6.712 8.57%2c-9.937c2.903%2c-3.064 6.036%2c-6.043 9.547%2c-8.917l7.935%2c-6.576c1.418%2c-1.146 3.155%2c-2.393 4.43%2c-3.716c0.716%2c-0.743 1.293%2c-1.516 1.647%2c-2.301c0.283%2c-0.629 0.003%2c-1.37 -0.626%2c-1.653c-0.629%2c-0.284 -1.37%2c-0.003 -1.653%2c0.626Z' style='fill:white%3b'/%3e%3c/g%3e%3c/g%3e%3c/g%3e%3c/svg%3e";
 
 var en$1 = {
-	"ml4kpretrained.entry.name": "ML4K Extension Module",
-	"ml4kpretrained.entry.description": "Description of this extension"
+	"xcratchExample.entry.name": "Xcratch Example",
+	"xcratchExample.entry.description": "Do it in JavaScript"
 };
 var ja$1 = {
-	"ml4kpretrained.entry.name": "ML4K Extension Module",
-	"ml4kpretrained.entry.description": "拡張機能の説明"
+	"xcratchExample.entry.name": "Xcratchの例",
+	"xcratchExample.entry.description": "JavaScriptを実行する"
 };
 var translations$1 = {
 	en: en$1,
 	ja: ja$1,
 	"ja-Hira": {
-	"ml4kpretrained.entry.name": "ML4K Extension Module",
-	"ml4kpretrained.entry.description": "かくちょうきのうのせつめい"
+	"xcratchExample.entry.name": "エクスクラッチのれい",
+	"xcratchExample.entry.description": "ジャバスクリプトをじっこうする"
 }
 };
 
@@ -36,34 +36,76 @@ var formatMessage$1 = function formatMessage(messageData) {
 var entry = {
   get name() {
     return formatMessage$1({
-      id: 'ml4kpretrained.entry.name',
-      defaultMessage: 'ML4K Extension Module',
+      id: 'xcratchExample.entry.name',
+      defaultMessage: 'Xcratch Example',
       description: 'name of the extension'
     });
   },
-  extensionId: 'ml4kpretrained',
-  extensionURL: 'https://mcardonaserrano.github.io/xcx-ml4k-extension/dist/ml4kpretrained.mjs',
-  collaborator: 'mcardonaserrano',
+  extensionId: 'xcratchExample',
+  extensionURL: 'https://xcratch.github.io/xcx-example/dist/xcratchExample.mjs',
+  collaborator: 'xcratch',
   iconURL: img$2,
   insetIconURL: img$1,
   get description() {
     return formatMessage$1({
       defaultMessage: 'an extension for Xcratch',
       description: 'Description for this extension',
-      id: 'ml4kpretrained.entry.description'
+      id: 'xcratchExample.entry.description'
     });
   },
-  tags: [],
+  tags: ['function', 'calculation', 'text'],
   featured: true,
   disabled: false,
   bluetoothRequired: false,
   internetConnectionRequired: false,
-  helpLink: 'https://mcardonaserrano.github.io/xcx-ml4k-extension/',
+  helpLink: 'https://xcratch.github.io/xcx-example/',
   setFormatMessage: function setFormatMessage(formatter) {
     formatMessage$1 = formatter;
   },
   translationMap: translations$1
 };
+
+function _classCallCheck$1(a, n) {
+  if (!(a instanceof n)) throw new TypeError("Cannot call a class as a function");
+}
+
+function _typeof$1(o) {
+  "@babel/helpers - typeof";
+
+  return _typeof$1 = "function" == typeof Symbol && "symbol" == typeof Symbol.iterator ? function (o) {
+    return typeof o;
+  } : function (o) {
+    return o && "function" == typeof Symbol && o.constructor === Symbol && o !== Symbol.prototype ? "symbol" : typeof o;
+  }, _typeof$1(o);
+}
+
+function toPrimitive$1(t, r) {
+  if ("object" != _typeof$1(t) || !t) return t;
+  var e = t[Symbol.toPrimitive];
+  if (void 0 !== e) {
+    var i = e.call(t, r);
+    if ("object" != _typeof$1(i)) return i;
+    throw new TypeError("@@toPrimitive must return a primitive value.");
+  }
+  return (String )(t);
+}
+
+function toPropertyKey$1(t) {
+  var i = toPrimitive$1(t, "string");
+  return "symbol" == _typeof$1(i) ? i : i + "";
+}
+
+function _defineProperties$1(e, r) {
+  for (var t = 0; t < r.length; t++) {
+    var o = r[t];
+    o.enumerable = o.enumerable || false, o.configurable = true, "value" in o && (o.writable = true), Object.defineProperty(e, toPropertyKey$1(o.key), o);
+  }
+}
+function _createClass$1(e, r, t) {
+  return r && _defineProperties$1(e.prototype, r), t && _defineProperties$1(e, t), Object.defineProperty(e, "prototype", {
+    writable: false
+  }), e;
+}
 
 function getDefaultExportFromCjs (x) {
 	return x && x.__esModule && Object.prototype.hasOwnProperty.call(x, 'default') ? x['default'] : x;
@@ -215,10 +257,10 @@ function _createClass(e, r, t) {
 }
 
 var color;
-var hasRequiredColor;
-function requireColor() {
-  if (hasRequiredColor) return color;
-  hasRequiredColor = 1;
+var hasRequiredColor$1;
+function requireColor$1() {
+  if (hasRequiredColor$1) return color;
+  hasRequiredColor$1 = 1;
   var Color = /*#__PURE__*/function () {
     function Color() {
       _classCallCheck(this, Color);
@@ -471,7 +513,7 @@ var hasRequiredCast;
 function requireCast() {
   if (hasRequiredCast) return cast;
   hasRequiredCast = 1;
-  var Color = requireColor();
+  var Color = requireColor$1();
 
   /**
    * @fileoverview
@@ -726,20 +768,612 @@ function requireCast() {
 var castExports = requireCast();
 var Cast = /*@__PURE__*/getDefaultExportFromCjs(castExports);
 
+var web = {exports: {}};
+
+var minilog$1 = {exports: {}};
+
+var microee;
+var hasRequiredMicroee;
+function requireMicroee() {
+  if (hasRequiredMicroee) return microee;
+  hasRequiredMicroee = 1;
+  function M() {
+    this._events = {};
+  }
+  M.prototype = {
+    on: function on(ev, cb) {
+      this._events || (this._events = {});
+      var e = this._events;
+      (e[ev] || (e[ev] = [])).push(cb);
+      return this;
+    },
+    removeListener: function removeListener(ev, cb) {
+      var e = this._events[ev] || [],
+        i;
+      for (i = e.length - 1; i >= 0 && e[i]; i--) {
+        if (e[i] === cb || e[i].cb === cb) {
+          e.splice(i, 1);
+        }
+      }
+    },
+    removeAllListeners: function removeAllListeners(ev) {
+      if (!ev) {
+        this._events = {};
+      } else {
+        this._events[ev] && (this._events[ev] = []);
+      }
+    },
+    listeners: function listeners(ev) {
+      return this._events ? this._events[ev] || [] : [];
+    },
+    emit: function emit(ev) {
+      this._events || (this._events = {});
+      var args = Array.prototype.slice.call(arguments, 1),
+        i,
+        e = this._events[ev] || [];
+      for (i = e.length - 1; i >= 0 && e[i]; i--) {
+        e[i].apply(this, args);
+      }
+      return this;
+    },
+    when: function when(ev, cb) {
+      return this.once(ev, cb, true);
+    },
+    once: function once(ev, cb, when) {
+      if (!cb) return this;
+      function c() {
+        if (!when) this.removeListener(ev, c);
+        if (cb.apply(this, arguments) && when) this.removeListener(ev, c);
+      }
+      c.cb = cb;
+      this.on(ev, c);
+      return this;
+    }
+  };
+  M.mixin = function (dest) {
+    var o = M.prototype,
+      k;
+    for (k in o) {
+      o.hasOwnProperty(k) && (dest.prototype[k] = o[k]);
+    }
+  };
+  microee = M;
+  return microee;
+}
+
+var transform;
+var hasRequiredTransform;
+function requireTransform() {
+  if (hasRequiredTransform) return transform;
+  hasRequiredTransform = 1;
+  var microee = requireMicroee();
+
+  // Implements a subset of Node's stream.Transform - in a cross-platform manner.
+  function Transform() {}
+  microee.mixin(Transform);
+
+  // The write() signature is different from Node's
+  // --> makes it much easier to work with objects in logs.
+  // One of the lessons from v1 was that it's better to target
+  // a good browser rather than the lowest common denominator
+  // internally.
+  // If you want to use external streams, pipe() to ./stringify.js first.
+  Transform.prototype.write = function (name, level, args) {
+    this.emit('item', name, level, args);
+  };
+  Transform.prototype.end = function () {
+    this.emit('end');
+    this.removeAllListeners();
+  };
+  Transform.prototype.pipe = function (dest) {
+    var s = this;
+    // prevent double piping
+    s.emit('unpipe', dest);
+    // tell the dest that it's being piped to
+    dest.emit('pipe', s);
+    function onItem() {
+      dest.write.apply(dest, Array.prototype.slice.call(arguments));
+    }
+    function onEnd() {
+      !dest._isStdio && dest.end();
+    }
+    s.on('item', onItem);
+    s.on('end', onEnd);
+    s.when('unpipe', function (from) {
+      var match = from === dest || typeof from == 'undefined';
+      if (match) {
+        s.removeListener('item', onItem);
+        s.removeListener('end', onEnd);
+        dest.emit('unpipe');
+      }
+      return match;
+    });
+    return dest;
+  };
+  Transform.prototype.unpipe = function (from) {
+    this.emit('unpipe', from);
+    return this;
+  };
+  Transform.prototype.format = function (dest) {
+    throw new Error(['Warning: .format() is deprecated in Minilog v2! Use .pipe() instead. For example:', 'var Minilog = require(\'minilog\');', 'Minilog', '  .pipe(Minilog.backends.console.formatClean)', '  .pipe(Minilog.backends.console);'].join('\n'));
+  };
+  Transform.mixin = function (dest) {
+    var o = Transform.prototype,
+      k;
+    for (k in o) {
+      o.hasOwnProperty(k) && (dest.prototype[k] = o[k]);
+    }
+  };
+  transform = Transform;
+  return transform;
+}
+
+var filter;
+var hasRequiredFilter;
+function requireFilter() {
+  if (hasRequiredFilter) return filter;
+  hasRequiredFilter = 1;
+  // default filter
+  var Transform = requireTransform();
+  var levelMap = {
+    debug: 1,
+    info: 2,
+    warn: 3,
+    error: 4
+  };
+  function Filter() {
+    this.enabled = true;
+    this.defaultResult = true;
+    this.clear();
+  }
+  Transform.mixin(Filter);
+
+  // allow all matching, with level >= given level
+  Filter.prototype.allow = function (name, level) {
+    this._white.push({
+      n: name,
+      l: levelMap[level]
+    });
+    return this;
+  };
+
+  // deny all matching, with level <= given level
+  Filter.prototype.deny = function (name, level) {
+    this._black.push({
+      n: name,
+      l: levelMap[level]
+    });
+    return this;
+  };
+  Filter.prototype.clear = function () {
+    this._white = [];
+    this._black = [];
+    return this;
+  };
+  function test(rule, name) {
+    // use .test for RegExps
+    return rule.n.test ? rule.n.test(name) : rule.n == name;
+  }
+  Filter.prototype.test = function (name, level) {
+    var i,
+      len = Math.max(this._white.length, this._black.length);
+    for (i = 0; i < len; i++) {
+      if (this._white[i] && test(this._white[i], name) && levelMap[level] >= this._white[i].l) {
+        return true;
+      }
+      if (this._black[i] && test(this._black[i], name) && levelMap[level] <= this._black[i].l) {
+        return false;
+      }
+    }
+    return this.defaultResult;
+  };
+  Filter.prototype.write = function (name, level, args) {
+    if (!this.enabled || this.test(name, level)) {
+      return this.emit('item', name, level, args);
+    }
+  };
+  filter = Filter;
+  return filter;
+}
+
+var hasRequiredMinilog$1;
+function requireMinilog$1() {
+  if (hasRequiredMinilog$1) return minilog$1.exports;
+  hasRequiredMinilog$1 = 1;
+  (function (module, exports) {
+    var Transform = requireTransform(),
+      Filter = requireFilter();
+    var log = new Transform(),
+      slice = Array.prototype.slice;
+    exports = module.exports = function create(name) {
+      var _o = function o() {
+        log.write(name, undefined, slice.call(arguments));
+        return _o;
+      };
+      _o.debug = function () {
+        log.write(name, 'debug', slice.call(arguments));
+        return _o;
+      };
+      _o.info = function () {
+        log.write(name, 'info', slice.call(arguments));
+        return _o;
+      };
+      _o.warn = function () {
+        log.write(name, 'warn', slice.call(arguments));
+        return _o;
+      };
+      _o.error = function () {
+        log.write(name, 'error', slice.call(arguments));
+        return _o;
+      };
+      _o.log = _o.debug; // for interface compliance with Node and browser consoles
+      _o.suggest = exports.suggest;
+      _o.format = log.format;
+      return _o;
+    };
+
+    // filled in separately
+    exports.defaultBackend = exports.defaultFormatter = null;
+    exports.pipe = function (dest) {
+      return log.pipe(dest);
+    };
+    exports.end = exports.unpipe = exports.disable = function (from) {
+      return log.unpipe(from);
+    };
+    exports.Transform = Transform;
+    exports.Filter = Filter;
+    // this is the default filter that's applied when .enable() is called normally
+    // you can bypass it completely and set up your own pipes
+    exports.suggest = new Filter();
+    exports.enable = function () {
+      if (exports.defaultFormatter) {
+        return log.pipe(exports.suggest) // filter
+        .pipe(exports.defaultFormatter) // formatter
+        .pipe(exports.defaultBackend); // backend
+      }
+      return log.pipe(exports.suggest) // filter
+      .pipe(exports.defaultBackend); // formatter
+    };
+  })(minilog$1, minilog$1.exports);
+  return minilog$1.exports;
+}
+
+var util;
+var hasRequiredUtil;
+function requireUtil() {
+  if (hasRequiredUtil) return util;
+  hasRequiredUtil = 1;
+  var hex = {
+    black: '#000',
+    red: '#c23621',
+    green: '#25bc26',
+    yellow: '#bbbb00',
+    blue: '#492ee1',
+    magenta: '#d338d3',
+    cyan: '#33bbc8',
+    gray: '#808080',
+    purple: '#708'
+  };
+  function color(fg, isInverse) {
+    if (isInverse) {
+      return 'color: #fff; background: ' + hex[fg] + ';';
+    } else {
+      return 'color: ' + hex[fg] + ';';
+    }
+  }
+  util = color;
+  return util;
+}
+
+var color_1;
+var hasRequiredColor;
+function requireColor() {
+  if (hasRequiredColor) return color_1;
+  hasRequiredColor = 1;
+  var Transform = requireTransform(),
+    color = requireUtil();
+  var colors = {
+      debug: ['cyan'],
+      info: ['purple'],
+      warn: ['yellow', true],
+      error: ['red', true]
+    },
+    logger = new Transform();
+  logger.write = function (name, level, args) {
+    var fn = console.log;
+    if (console[level] && console[level].apply) {
+      fn = console[level];
+      fn.apply(console, ['%c' + name + ' %c' + level, color('gray'), color.apply(color, colors[level])].concat(args));
+    }
+  };
+
+  // NOP, because piping the formatted logs can only cause trouble.
+  logger.pipe = function () {};
+  color_1 = logger;
+  return color_1;
+}
+
+var minilog;
+var hasRequiredMinilog;
+function requireMinilog() {
+  if (hasRequiredMinilog) return minilog;
+  hasRequiredMinilog = 1;
+  var Transform = requireTransform(),
+    color = requireUtil(),
+    colors = {
+      debug: ['gray'],
+      info: ['purple'],
+      warn: ['yellow', true],
+      error: ['red', true]
+    },
+    logger = new Transform();
+  logger.write = function (name, level, args) {
+    var fn = console.log;
+    if (level != 'debug' && console[level]) {
+      fn = console[level];
+    }
+    var i = 0;
+    if (level != 'info') {
+      for (; i < args.length; i++) {
+        if (typeof args[i] != 'string') break;
+      }
+      fn.apply(console, ['%c' + name + ' ' + args.slice(0, i).join(' '), color.apply(color, colors[level])].concat(args.slice(i)));
+    } else {
+      fn.apply(console, ['%c' + name, color.apply(color, colors[level])].concat(args));
+    }
+  };
+
+  // NOP, because piping the formatted logs can only cause trouble.
+  logger.pipe = function () {};
+  minilog = logger;
+  return minilog;
+}
+
+var console_1;
+var hasRequiredConsole;
+function requireConsole() {
+  if (hasRequiredConsole) return console_1;
+  hasRequiredConsole = 1;
+  var Transform = requireTransform();
+  var newlines = /\n+$/,
+    logger = new Transform();
+  logger.write = function (name, level, args) {
+    var i = args.length - 1;
+    if (typeof console === 'undefined' || !console.log) {
+      return;
+    }
+    if (console.log.apply) {
+      return console.log.apply(console, [name, level].concat(args));
+    } else if (JSON && JSON.stringify) {
+      // console.log.apply is undefined in IE8 and IE9
+      // for IE8/9: make console.log at least a bit less awful
+      if (args[i] && typeof args[i] == 'string') {
+        args[i] = args[i].replace(newlines, '');
+      }
+      try {
+        for (i = 0; i < args.length; i++) {
+          args[i] = JSON.stringify(args[i]);
+        }
+      } catch (e) {}
+      console.log(args.join(' '));
+    }
+  };
+  logger.formatters = ['color', 'minilog'];
+  logger.color = requireColor();
+  logger.minilog = requireMinilog();
+  console_1 = logger;
+  return console_1;
+}
+
+var array;
+var hasRequiredArray;
+function requireArray() {
+  if (hasRequiredArray) return array;
+  hasRequiredArray = 1;
+  var Transform = requireTransform(),
+    cache = [];
+  var logger = new Transform();
+  logger.write = function (name, level, args) {
+    cache.push([name, level, args]);
+  };
+
+  // utility functions
+  logger.get = function () {
+    return cache;
+  };
+  logger.empty = function () {
+    cache = [];
+  };
+  array = logger;
+  return array;
+}
+
+var localstorage;
+var hasRequiredLocalstorage;
+function requireLocalstorage() {
+  if (hasRequiredLocalstorage) return localstorage;
+  hasRequiredLocalstorage = 1;
+  var Transform = requireTransform(),
+    cache = false;
+  var logger = new Transform();
+  logger.write = function (name, level, args) {
+    if (typeof window == 'undefined' || typeof JSON == 'undefined' || !JSON.stringify || !JSON.parse) return;
+    try {
+      if (!cache) {
+        cache = window.localStorage.minilog ? JSON.parse(window.localStorage.minilog) : [];
+      }
+      cache.push([new Date().toString(), name, level, args]);
+      window.localStorage.minilog = JSON.stringify(cache);
+    } catch (e) {}
+  };
+  localstorage = logger;
+  return localstorage;
+}
+
+var jquery_simple;
+var hasRequiredJquery_simple;
+function requireJquery_simple() {
+  if (hasRequiredJquery_simple) return jquery_simple;
+  hasRequiredJquery_simple = 1;
+  var Transform = requireTransform();
+  var cid = new Date().valueOf().toString(36);
+  function AjaxLogger(options) {
+    this.url = options.url || '';
+    this.cache = [];
+    this.timer = null;
+    this.interval = options.interval || 30 * 1000;
+    this.enabled = true;
+    this.jQuery = window.jQuery;
+    this.extras = {};
+  }
+  Transform.mixin(AjaxLogger);
+  AjaxLogger.prototype.write = function (name, level, args) {
+    if (!this.timer) {
+      this.init();
+    }
+    this.cache.push([name, level].concat(args));
+  };
+  AjaxLogger.prototype.init = function () {
+    if (!this.enabled || !this.jQuery) return;
+    var self = this;
+    this.timer = setTimeout(function () {
+      var i,
+        logs = [],
+        ajaxData,
+        url = self.url;
+      if (self.cache.length == 0) return self.init();
+      // Test each log line and only log the ones that are valid (e.g. don't have circular references).
+      // Slight performance hit but benefit is we log all valid lines.
+      for (i = 0; i < self.cache.length; i++) {
+        try {
+          JSON.stringify(self.cache[i]);
+          logs.push(self.cache[i]);
+        } catch (e) {}
+      }
+      if (self.jQuery.isEmptyObject(self.extras)) {
+        ajaxData = JSON.stringify({
+          logs: logs
+        });
+        url = self.url + '?client_id=' + cid;
+      } else {
+        ajaxData = JSON.stringify(self.jQuery.extend({
+          logs: logs
+        }, self.extras));
+      }
+      self.jQuery.ajax(url, {
+        type: 'POST',
+        cache: false,
+        processData: false,
+        data: ajaxData,
+        contentType: 'application/json',
+        timeout: 10000
+      }).success(function (data, status, jqxhr) {
+        if (data.interval) {
+          self.interval = Math.max(1000, data.interval);
+        }
+      }).error(function () {
+        self.interval = 30000;
+      }).always(function () {
+        self.init();
+      });
+      self.cache = [];
+    }, this.interval);
+  };
+  AjaxLogger.prototype.end = function () {};
+
+  // wait until jQuery is defined. Useful if you don't control the load order.
+  AjaxLogger.jQueryWait = function (onDone) {
+    if (typeof window !== 'undefined' && (window.jQuery || window.$)) {
+      return onDone(window.jQuery || window.$);
+    } else if (typeof window !== 'undefined') {
+      setTimeout(function () {
+        AjaxLogger.jQueryWait(onDone);
+      }, 200);
+    }
+  };
+  jquery_simple = AjaxLogger;
+  return jquery_simple;
+}
+
+var hasRequiredWeb;
+function requireWeb() {
+  if (hasRequiredWeb) return web.exports;
+  hasRequiredWeb = 1;
+  (function (module, exports) {
+    var Minilog = requireMinilog$1();
+    var oldEnable = Minilog.enable,
+      oldDisable = Minilog.disable,
+      isChrome = typeof navigator != 'undefined' && /chrome/i.test(navigator.userAgent),
+      console = requireConsole();
+
+    // Use a more capable logging backend if on Chrome
+    Minilog.defaultBackend = isChrome ? console.minilog : console;
+
+    // apply enable inputs from localStorage and from the URL
+    if (typeof window != 'undefined') {
+      try {
+        Minilog.enable(JSON.parse(window.localStorage['minilogSettings']));
+      } catch (e) {}
+      if (window.location && window.location.search) {
+        var match = RegExp('[?&]minilog=([^&]*)').exec(window.location.search);
+        match && Minilog.enable(decodeURIComponent(match[1]));
+      }
+    }
+
+    // Make enable also add to localStorage
+    Minilog.enable = function () {
+      oldEnable.call(Minilog, true);
+      try {
+        window.localStorage['minilogSettings'] = JSON.stringify(true);
+      } catch (e) {}
+      return this;
+    };
+    Minilog.disable = function () {
+      oldDisable.call(Minilog);
+      try {
+        delete window.localStorage.minilogSettings;
+      } catch (e) {}
+      return this;
+    };
+    exports = module.exports = Minilog;
+    exports.backends = {
+      array: requireArray(),
+      browser: Minilog.defaultBackend,
+      localStorage: requireLocalstorage(),
+      jQuery: requireJquery_simple()
+    };
+  })(web, web.exports);
+  return web.exports;
+}
+
+var log$1;
+var hasRequiredLog;
+function requireLog() {
+  if (hasRequiredLog) return log$1;
+  hasRequiredLog = 1;
+  var minilog = requireWeb();
+  minilog.enable();
+  log$1 = minilog('vm');
+  return log$1;
+}
+
+var logExports = requireLog();
+var log = /*@__PURE__*/getDefaultExportFromCjs(logExports);
+
 var en = {
-	"ml4kpretrained.name": "ML4K Extension Module",
-	"ml4kpretrained.doIt": "do it [SCRIPT]"
+	"xcratchExample.name": "Xcratch Example",
+	"xcratchExample.doIt": "do it [SCRIPT]"
 };
 var ja = {
-	"ml4kpretrained.name": "ML4K Extension Module",
-	"ml4kpretrained.doIt": "[SCRIPT] を実行する"
+	"xcratchExample.name": "Xcratchの例",
+	"xcratchExample.doIt": "[SCRIPT] を実行する"
 };
 var translations = {
 	en: en,
 	ja: ja,
 	"ja-Hira": {
-	"ml4kpretrained.name": "ML4K Extension Module",
-	"ml4kpretrained.doIt": "[SCRIPT] をじっこうする"
+	"xcratchExample.name": "エクスクラッチのれい",
+	"xcratchExample.doIt": "[SCRIPT] をじっこうする"
 }
 };
 
@@ -758,32 +1392,27 @@ var formatMessage = function formatMessage(messageData) {
 /**
  * Setup format-message for this extension.
  */
-// replace your setupTranslations with this
-const setupTranslations = () => {
-    if (!formatMessage || typeof formatMessage.setup !== 'function') return;
-    const localeSetup = formatMessage.setup();
-    if (localeSetup && localeSetup.translations[localeSetup.locale]) {
-        Object.assign(
-            localeSetup.translations[localeSetup.locale],
-            translations[localeSetup.locale]
-        );
-    }
+var setupTranslations = function setupTranslations() {
+  var localeSetup = formatMessage.setup();
+  if (localeSetup && localeSetup.translations[localeSetup.locale]) {
+    Object.assign(localeSetup.translations[localeSetup.locale], translations[localeSetup.locale]);
+  }
 };
-var EXTENSION_ID = 'ml4kpretrained';
+var EXTENSION_ID = 'xcratchExample';
 
 /**
  * URL to get this extension as a module.
  * When it was loaded as a module, 'extensionURL' will be replaced a URL which is retrieved from.
  * @type {string}
  */
-var extensionURL = 'https://mcardonaserrano.github.io/xcx-ml4k-extension/dist/ml4kpretrained.mjs';
+var extensionURL = 'https://yokobond.github.io/xcx-xcratchExample/dist/xcratchExample.mjs';
 
 /**
  * Scratch 3.0 blocks for example of Xcratch.
  */
 var ExtensionBlocks = /*#__PURE__*/function () {
   /**
-   * Construct a set of blocks for ML4K Extension Module.
+   * Construct a set of blocks for xcratchExample.
    * @param {Runtime} runtime - the Scratch 3.0 runtime.
    */
   function ExtensionBlocks(runtime) {
@@ -817,7 +1446,7 @@ var ExtensionBlocks = /*#__PURE__*/function () {
           blockType: BlockType.REPORTER,
           blockAllThreads: false,
           text: formatMessage({
-            id: 'ml4kpretrained.doIt',
+            id: 'xcratchExample.doIt',
             default: 'do it [SCRIPT]',
             description: 'execute javascript for example'
           }),
@@ -837,7 +1466,7 @@ var ExtensionBlocks = /*#__PURE__*/function () {
     value: function doIt(args) {
       var statement = Cast.toString(args.SCRIPT);
       var func = new Function("return (".concat(statement, ")"));
-      console.log("doIt: ".concat(statement));
+      log.log("doIt: ".concat(statement));
       return func.call(this);
     }
   }], [{
@@ -859,8 +1488,8 @@ var ExtensionBlocks = /*#__PURE__*/function () {
     key: "EXTENSION_NAME",
     get: function get() {
       return formatMessage({
-        id: 'ml4kpretrained.name',
-        default: 'ML4K Extension Module',
+        id: 'xcratchExample.name',
+        default: 'xcratchExample',
         description: 'name of the extension'
       });
     }
@@ -896,4 +1525,4 @@ var ExtensionBlocks = /*#__PURE__*/function () {
 }();
 
 export { ExtensionBlocks as blockClass, entry };
-//# sourceMappingURL=ml4kpretrained.mjs.map
+//# sourceMappingURL=xcratchExample.mjs.map
