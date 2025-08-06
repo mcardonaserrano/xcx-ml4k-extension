@@ -1,0 +1,14 @@
+{
+  "en": {
+    "ml4kpretrained.name": "ML4K Extension Module",
+    "ml4kpretrained.doIt": "do it [SCRIPT]"
+  },
+  "ja": {
+    "ml4kpretrained.name": "ML4K Extension Module",
+    "ml4kpretrained.doIt": "[SCRIPT] を実行する"
+  },
+  "ja-Hira": {
+    "ml4kpretrained.name": "ML4K Extension Module",
+    "ml4kpretrained.doIt": "[SCRIPT] をじっこうする"
+  }
+}

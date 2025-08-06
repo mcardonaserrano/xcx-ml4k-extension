@@ -1,0 +1,14 @@
+{
+  "en": {
+    "ml4kpretrained.entry.name": "ML4K Extension Module",
+    "ml4kpretrained.entry.description": "Description of this extension"
+  },
+  "ja": {
+    "ml4kpretrained.entry.name": "ML4K Extension Module",
+    "ml4kpretrained.entry.description": "拡張機能の説明"
+  },
+  "ja-Hira": {
+    "ml4kpretrained.entry.name": "ML4K Extension Module",
+    "ml4kpretrained.entry.description": "かくちょうきのうのせつめい"
+  }
+}
