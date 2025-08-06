@@ -758,11 +758,16 @@ var formatMessage = function formatMessage(messageData) {
 /**
  * Setup format-message for this extension.
  */
-var setupTranslations = function setupTranslations() {
-  var localeSetup = formatMessage.setup();
-  if (localeSetup && localeSetup.translations[localeSetup.locale]) {
-    Object.assign(localeSetup.translations[localeSetup.locale], translations[localeSetup.locale]);
-  }
+// replace your setupTranslations with this
+const setupTranslations = () => {
+    if (!formatMessage || typeof formatMessage.setup !== 'function') return;
+    const localeSetup = formatMessage.setup();
+    if (localeSetup && localeSetup.translations[localeSetup.locale]) {
+        Object.assign(
+            localeSetup.translations[localeSetup.locale],
+            translations[localeSetup.locale]
+        );
+    }
 };
 var EXTENSION_ID = 'ml4kpretrained';
 
