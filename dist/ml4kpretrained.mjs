@@ -39,11 +39,12 @@ var formatMessage$1 = function formatMessage(messageData) {
 var entry = {
   get name() {
     return formatMessage$1({
-      id: 'ml4kpretrained.entry.name',
-      defaultMessage: 'ML4K Extension Module',
-      description: 'name of the extension'
+      id: 'ml4kImagenet.entry.name',
+      defaultMessage: 'ImageNet (ML4K)',
+      description: 'name of the ImageNet extension'
     });
   },
+  // keep the same extensionId and URL so existing project URLs continue to work
   extensionId: 'ml4kpretrained',
   extensionURL: 'https://mcardonaserrano.github.io/xcx-ml4k-extension/dist/ml4kpretrained.mjs',
   collaborator: 'mcardonaserrano',
@@ -51,9 +52,9 @@ var entry = {
   insetIconURL: img$1,
   get description() {
     return formatMessage$1({
-      defaultMessage: 'an extension for Xcratch',
-      description: 'Description for this extension',
-      id: 'ml4kpretrained.entry.description'
+      id: 'ml4kImagenet.entry.description',
+      defaultMessage: 'Use a pre-trained ImageNet model to recognise objects in images.',
+      description: 'Description for the ImageNet extension'
     });
   },
   tags: [],
