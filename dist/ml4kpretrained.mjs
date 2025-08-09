@@ -23,8 +23,8 @@ var translationMap = {
 };
 var entry = {
   name: 'Microbit More',
-  extensionId: 'microbitMore',
-  extensionURL: 'https://microbit-more.github.io/dist/microbitMore.mjs',
+  extensionId: 'ml4kpretrained',
+  extensionURL: 'https://mcardonaserrano.github.io/xcx-ml4k-extension/dist/ml4kpretrained.mjs',
   collaborator: 'Yengawa Lab',
   iconURL: img$4,
   insetIconURL: img$3,
@@ -3914,14 +3914,14 @@ var setupTranslations = function setupTranslations() {
   }
 };
 
-var EXTENSION_ID = 'microbitMore';
+var EXTENSION_ID = 'ml4kpretrained';
 /**
  * URL to get this extension as a module.
  * When it was loaded as a module, 'extensionURL' will be replaced a URL which is retrieved from.
  * @type {string}
  */
 
-var extensionURL = 'https://microbit-more.github.io/dist/microbitMore.mjs';
+var extensionURL = 'https://mcardonaserrano.github.io/xcx-ml4k-extension/dist/ml4kpretrained.mjs';
 /**
  * Enum for version of the hardware.
  * @readonly
